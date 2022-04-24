@@ -1,3 +1,5 @@
+Auto-negotiate
+
 Automatically accepts or declines Trade Broker negotiations. 
 
 Settings can be configured by editing `index.js` (after disabing auto-update in module.json file)
