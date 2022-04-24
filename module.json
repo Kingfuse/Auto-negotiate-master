@@ -1,5 +1,5 @@
 {
-	"disableAutoUpdate": false,
+	"disableAutoUpdate": true,
 	"name": "auto-negotiate",
 	"author": "Midoriykawa",
 	"description": "Automatically accepts or declines Trade Broker negotiations.",
@@ -7,6 +7,6 @@
 		"niceName": "auto-negotiate",
 		"guiName": "auto negotiate"
 	},
-	"servers": ["https://raw.githubusercontent.com/Midoriykawa/auto-negotiate/soft/"],
-	"supportUrl": "https://github.com/Midoriykawa/auto-negotiate/issues"
+	"servers": [""],
+	"supportUrl": ""
 }
